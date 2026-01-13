@@ -1,7 +1,7 @@
 remote_theme: https://github.com/SourLemonJuice/minima-for-SourLemonJuice@stable
 
 title: SourLemonJuice-blog
-url: "https://blog.sourlemonjuice.net"
+url: "https://sourlemonjuice.github.io"
 # <url><baseurl>/pages/xxx.html
 # If on GitHub Pages, it will provided by cli: bundle exec jekyll build --baseurl "/SourLemonJuice-blog"
 # No need to set here
