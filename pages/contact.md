@@ -21,16 +21,6 @@ I'll put some social media on my GitHub page if they are matter for me. Therefor
 - [Mastodon - mastodon.social](https://mastodon.social/@SourLemonJuice)
 - [Bluesky](https://bsky.app/profile/sourlemonjuice.bsky.social)
 
-## Just for verification
-
-- [YouTube](https://www.youtube.com/@SourLemonJuice233)
-- [GitLab](https://gitlab.com/SourLemonJuice)
-- [StackOverflow](https://stackoverflow.com/users/25416550)
-- [PyPI](https://pypi.org/user/SourLemonJuice/)
-- [Hugging Face](https://huggingface.co/SourLemonJuice)
-- [RubyGems](https://rubygems.org/profiles/SourLemonJuice)
-- [npm](https://www.npmjs.com/~sourlemonjuice)
-
 ## Messaging
 
 Honestly, if someone publishes their messaging account in a public place they will have their reasons. Maybe for find like-minded people or something else.\
