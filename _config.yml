@@ -30,11 +30,6 @@ plugins:
   # 默认情况下最后被需求的插件会被最后执行，所以一定要保持这行配置是插件序列中的最后一项
   - jekyll-sitemap
 
-# Enable ES6
-jekyll-minifier:
-  uglifier_args:
-    harmony: true
-
 feed:
   excerpt_only: true
 
