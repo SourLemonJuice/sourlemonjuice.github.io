@@ -1,0 +1,49 @@
+.privacy-dialog-wrapper {
+  position: fixed;
+  bottom: 0px;
+  width: auto;
+  min-height: 8%;
+  margin: 0px;
+  padding: 12px 4vw;
+  border: 0px;
+  border-top: 3px solid #fe8e7f;
+  color: #ffffff;
+  background-color: #000000;
+
+  display: grid;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* we set a non-none display attr to dialog, even the dialog is closed */
+dialog:not([open]) {
+  display: none;
+}
+
+.privacy-dialog-text {
+  grid-column: 1;
+}
+
+.privacy-dialog-button-wrapper {
+  grid-column: 2;
+  align-self: end;
+}
+
+.privacy-dialog-button-wrapper button {
+  min-height: 32px;
+  min-width: 60px;
+  padding: 0px;
+  padding-inline: 1.5em;
+  border: 2px solid #fe8e7f;
+  margin-right: 8px;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.privacy-dialog-button-wrapper button:hover {
+  background-color: #cc7266;
+  color: #301b18;
+  border: 2px solid #ad4748;
+}
