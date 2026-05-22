@@ -27,7 +27,7 @@ fi
 post_id="$1"
 
 base_path="posts2/$(date +%Y)/_posts"
-mkdir --parents "${base_path}"
+mkdir -p "${base_path}"
 
 post_path="${base_path}/$(date +%Y-%m-%d)-${post_id}.md"
 read -p "Press enter to create: ${post_path}"
