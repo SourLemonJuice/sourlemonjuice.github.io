@@ -58,6 +58,9 @@ minima:
     - "pages/featured.html"
     - "pages/archives.html"
 
+  # Pride Month special theme :>
+  rainbow_header: true
+
 # Default front-matter
 defaults:
   # all the pages(not posts)
