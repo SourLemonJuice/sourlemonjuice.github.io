@@ -1,3 +1,17 @@
 /_drafts
 /_site
 /.jekyll-cache
+
+# https://github.com/github/gitignore/blob/57286c3887203259752b747db94e6c3ad10ec53d/Global/macOS.gitignore
+
+# General
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[
+]
+
+# Resource forks
+._*
