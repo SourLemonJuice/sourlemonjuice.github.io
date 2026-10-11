@@ -1,4 +1,4 @@
-# SourLemonJuice-blog
+# SourLemonJuice's Blog
 
 这是一个我自己的个人网站。由 `Jekyll` 与经修改后的 `minima` 主题驱动。
 

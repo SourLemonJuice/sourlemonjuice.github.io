@@ -2,7 +2,7 @@
 permalink: "/"
 layout: "home"
 lang: "zh-Hans"
-title: "SourLemonJuice-blog"
+title: "SourLemonJuice's Blog"
 list_title: "帖子列表"
 ---
 
