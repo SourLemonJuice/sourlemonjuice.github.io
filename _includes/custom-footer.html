@@ -6,6 +6,10 @@
   Only put them into an html can use it but not _config.yaml.
 {% endcomment %}
 
+<div>
+  {% include no-ai-webring.html %}
+</div>
+
 {% if page.creative_commons %}
 This page published under <a href="{{ page.creative_commons.URL }}">{{ page.creative_commons.ShortName | escape }}</a>
 {% else %}
